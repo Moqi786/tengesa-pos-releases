@@ -1,2 +1,2 @@
-# stone-pos-releases
-Stone POS installers and updates
+# Tengesa POS
+Installers and updates for Tengesa POS.
